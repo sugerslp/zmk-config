@@ -1,0 +1,4 @@
+if SHIELD_TITLE72
+  config ZMK_KEYBOARD_NAME
+  default "Title72"
+endif
