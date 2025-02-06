@@ -13,6 +13,9 @@
 ## ビルドガイド
 [here](https://github.com/te9no/zmk-config-title72/blob/main/docs%2Fbuildguide.md)
 
+## 回路図
+[Github](https://github.com/te9no/zmk-config-title72/tree/main/kicad_data_Title72)  
+
 ## ファームウェア
 [Github](https://github.com/te9no/zmk-config-title72/)  
 
