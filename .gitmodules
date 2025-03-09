@@ -1,3 +1,0 @@
-[submodule "config/modules/bsim_hw_models/nrf_hw_models"]
-	path = config/modules/bsim_hw_models/nrf_hw_models
-	url = https://github.com/zephyrproject-rtos/nrf_hw_models
