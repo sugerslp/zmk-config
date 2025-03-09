@@ -1,5 +1,3 @@
-on: [push, pull_request, workflow_dispatch]
-
-jobs:
-  build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@main
+include:
+  - board: seeeduino_xiao_ble
+    shield: square_macro
