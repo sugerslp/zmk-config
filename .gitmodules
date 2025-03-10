@@ -13,3 +13,6 @@
 [submodule "modules/lib/nanopb"]
     path = modules/lib/nanopb
     url = https://github.com/nanopb/nanopb.git
+[submodule "modules/bsim_hw_models/nrf_hw_models"]
+    path = modules/bsim_hw_models/nrf_hw_models
+    url = https://github.com/zephyrproject-rtos/nrf_hw_models.git
