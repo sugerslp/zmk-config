@@ -1,3 +1,310 @@
+[submodule "modules/lib/acpica"]
+    path = modules/lib/acpica
+    url = https://github.com/zephyrproject-rtos/acpica
+    branch = 0333c2af13179f9b33d495cf7cb9a509f751cbb1
+
+[submodule "tools/bsim"]
+    path = tools/bsim
+    url = https://github.com/zephyrproject-rtos/babblesim-manifest
+    branch = 384a091445c57b44ac8cbd18ebd245b47c71db94
+
+[submodule "tools/bsim/components"]
+    path = tools/bsim/components
+    url = https://github.com/BabbleSim/base.git
+    branch = 19d62424c0802c6c9fc15528febe666e40f372a1
+
+[submodule "tools/bsim/components/ext_2G4_libPhyComv1"]
+    path = tools/bsim/components/ext_2G4_libPhyComv1
+    url = https://github.com/BabbleSim/ext_2G4_libPhyComv1.git
+    branch = 9018113a362fa6c9e8f4b9cab9e5a8f12cc46b94
+
+[submodule "tools/bsim/components/ext_2G4_phy_v1"]
+    path = tools/bsim/components/ext_2G4_phy_v1
+    url = https://github.com/BabbleSim/ext_2G4_phy_v1.git
+    branch = d47c6dd90035b41b14f6921785ccb7b8484868e2
+
+[submodule "tools/bsim/components/ext_2G4_channel_NtNcable"]
+    path = tools/bsim/components/ext_2G4_channel_NtNcable
+    url = https://github.com/BabbleSim/ext_2G4_channel_NtNcable.git
+    branch = 20a38c997f507b0aa53817aab3d73a462fff7af1
+
+[submodule "tools/bsim/components/ext_2G4_channel_multiatt"]
+    path = tools/bsim/components/ext_2G4_channel_multiatt
+    url = https://github.com/BabbleSim/ext_2G4_channel_multiatt.git
+    branch = bde72a57384dde7a4310bcf3843469401be93074
+
+[submodule "tools/bsim/components/ext_2G4_modem_magic"]
+    path = tools/bsim/components/ext_2G4_modem_magic
+    url = https://github.com/BabbleSim/ext_2G4_modem_magic.git
+    branch = cb70771794f0bf6f262aa474848611c68ae8f1ed
+
+[submodule "tools/bsim/components/ext_2G4_modem_BLE_simple"]
+    path = tools/bsim/components/ext_2G4_modem_BLE_simple
+    url = https://github.com/BabbleSim/ext_2G4_modem_BLE_simple.git
+    branch = 809ab073159c9ab6686c2fea5749b0702e0909f7
+
+[submodule "tools/bsim/components/ext_2G4_device_burst_interferer"]
+    path = tools/bsim/components/ext_2G4_device_burst_interferer
+    url = https://github.com/BabbleSim/ext_2G4_device_burst_interferer.git
+    branch = 5b5339351d6e6a2368c686c734dc8b2fc65698fc
+
+[submodule "tools/bsim/components/ext_2G4_device_WLAN_actmod"]
+    path = tools/bsim/components/ext_2G4_device_WLAN_actmod
+    url = https://github.com/BabbleSim/ext_2G4_device_WLAN_actmod.git
+    branch = 9cb6d8e72695f6b785e57443f0629a18069d6ce4
+
+[submodule "tools/bsim/components/ext_2G4_device_playback"]
+    path = tools/bsim/components/ext_2G4_device_playback
+    url = https://github.com/BabbleSim/ext_2G4_device_playback.git
+    branch = 85c645929cf1ce995d8537107d9dcbd12ed64036
+
+[submodule "tools/bsim/components/ext_libCryptov1"]
+    path = tools/bsim/components/ext_libCryptov1
+    url = https://github.com/BabbleSim/ext_libCryptov1.git
+    branch = eed6d7038e839153e340bd333bc43541cb90ba64
+
+[submodule "modules/lib/canopennode"]
+    path = modules/lib/canopennode
+    url = https://github.com/zephyrproject-rtos/canopennode
+    branch = dec12fa3f0d790cafa8414a4c2930ea71ab72ffd
+
+[submodule "modules/hal/cmsis"]
+    path = modules/hal/cmsis
+    url = https://github.com/zephyrproject-rtos/cmsis
+    branch = 5a00331455dd74e31e80efa383a489faea0590e3
+
+[submodule "modules/lib/cmsis-dsp"]
+    path = modules/lib/cmsis-dsp
+    url = https://github.com/zephyrproject-rtos/cmsis-dsp
+    branch = ff7b5fd1ea5f094665c090c343ec44e74dc0b193
+
+[submodule "modules/lib/cmsis-nn"]
+    path = modules/lib/cmsis-nn
+    url = https://github.com/zephyrproject-rtos/cmsis-nn
+    branch = 0c8669d81381ccf3b1a01d699f3b68b50134a99f
+
+[submodule "tools/edtt"]
+    path = tools/edtt
+    url = https://github.com/zephyrproject-rtos/edtt
+    branch = 64e5105ad82390164fb73fc654be3f73a608209a
+
+[submodule "modules/fs/fatfs"]
+    path = modules/fs/fatfs
+    url = https://github.com/zephyrproject-rtos/fatfs
+    branch = 427159bf95ea49b7680facffaa29ad506b42709b
+
+[submodule "modules/hal/altera"]
+    path = modules/hal/altera
+    url = https://github.com/zephyrproject-rtos/hal_altera
+    branch = 0d225ddd314379b32355a00fb669eacf911e750d
+
+[submodule "modules/hal/ambiq"]
+    path = modules/hal/ambiq
+    url = https://github.com/zephyrproject-rtos/hal_ambiq
+    branch = 0a7c99325aa73a1ef777501da91c2c6608661e56
+
+[submodule "modules/hal/atmel"]
+    path = modules/hal/atmel
+    url = https://github.com/zephyrproject-rtos/hal_atmel
+    branch = 5ab43007eda3f380c125f957f03638d2e8d1144d
+
+[submodule "modules/hal/espressif"]
+    path = modules/hal/espressif
+    url = https://github.com/zephyrproject-rtos/hal_espressif
+    branch = 31fc5758f3507f8f0af00b1dea1a0df7af99bfc0
+
+[submodule "modules/hal/ethos_u"]
+    path = modules/hal/ethos_u
+    url = https://github.com/zephyrproject-rtos/hal_ethos_u
+    branch = 90ada2ea5681b2a2722a10d2898eac34c2510791
+
+[submodule "modules/hal/gigadevice"]
+    path = modules/hal/gigadevice
+    url = https://github.com/zephyrproject-rtos/hal_gigadevice
+    branch = 2994b7dde8b0b0fa9b9c0ccb13474b6a486cddc3
+
+[submodule "modules/hal/infineon"]
+    path = modules/hal/infineon
+    url = https://github.com/zephyrproject-rtos/hal_infineon
+    branch = 815e84a5150f95627201f192779a0180d5052de7
+
+[submodule "modules/hal/intel"]
+    path = modules/hal/intel
+    url = https://github.com/zephyrproject-rtos/hal_intel
+    branch = b3b43d4e3da7ba483611bbbea7ef8af92c69df31
+
+[submodule "modules/hal/microchip"]
+    path = modules/hal/microchip
+    url = https://github.com/zephyrproject-rtos/hal_microchip
+    branch = 5d079f1683a00b801373bbbbf5d181d4e33b30d5
+
+[submodule "modules/hal/nordic"]
+    path = modules/hal/nordic
+    url = https://github.com/zephyrproject-rtos/hal_nordic
+    branch = d054a315eb888ba70e09e5f6decd4097b0276d1f
+
+[submodule "modules/hal/nuvoton"]
+    path = modules/hal/nuvoton
+    url = https://github.com/zephyrproject-rtos/hal_nuvoton
+    branch = 3e0a4c4d3328b2f72b164219add19d5308b53cb5
+
+[submodule "modules/hal/nxp"]
+    path = modules/hal/nxp
+    url = https://github.com/zephyrproject-rtos/hal_nxp
+    branch = ad142f5612d927e29b1f9606e8edade871b8a526
+
+[submodule "modules/hal/openisa"]
+    path = modules/hal/openisa
+    url = https://github.com/zephyrproject-rtos/hal_openisa
+    branch = d1e61c0c654d8ca9e73d27fca3a7eb3b7881cb6a
+
+[submodule "modules/hal/quicklogic"]
+    path = modules/hal/quicklogic
+    url = https://github.com/zephyrproject-rtos/hal_quicklogic
+    branch = b3a66fe6d04d87fd1533a5c8de51d0599fcd08d0
+
+[submodule "modules/hal/renesas"]
+    path = modules/hal/renesas
+    url = https://github.com/zephyrproject-rtos/hal_renesas
+    branch = a6cf2af9140e014fbbc48d2b6deb802231dd369f
+
+[submodule "modules/hal/rpi_pico"]
+    path = modules/hal/rpi_pico
+    url = https://github.com/zephyrproject-rtos/hal_rpi_pico
+    branch = fba7162cc7bee06d0149622bbcaac4e41062d368
+
+[submodule "modules/hal/silabs"]
+    path = modules/hal/silabs
+    url = https://github.com/zephyrproject-rtos/hal_silabs
+    branch = d191d981c4eb20c0c7445a4061fcdbcfa686113a
+
+[submodule "modules/hal/st"]
+    path = modules/hal/st
+    url = https://github.com/zephyrproject-rtos/hal_st
+    branch = fb8e79d1a261fd02aadff7c142729f1954163cf3
+
+[submodule "modules/hal/stm32"]
+    path = modules/hal/stm32
+    url = https://github.com/zephyrproject-rtos/hal_stm32
+    branch = 89ef0a3383edebf661073073bcdf6e2836fe90ee
+
+[submodule "modules/hal/telink"]
+    path = modules/hal/telink
+    url = https://github.com/zephyrproject-rtos/hal_telink
+    branch = 38573af589173259801ae6c2b34b7d4c9e626746
+
+[submodule "modules/hal/ti"]
+    path = modules/hal/ti
+    url = https://github.com/zephyrproject-rtos/hal_ti
+    branch = b85f86e51fc4d47c4c383d320d64d52d4d371ae4
+
+[submodule "modules/hal/wurthelektronik"]
+    path = modules/hal/wurthelektronik
+    url = https://github.com/zephyrproject-rtos/hal_wurthelektronik
+    branch = 24ca9873c3d608fad1fea0431836bc8f144c132e
+
+[submodule "modules/hal/xtensa"]
+    path = modules/hal/xtensa
+    url = https://github.com/zephyrproject-rtos/hal_xtensa
+    branch = e6da34fc07dfe96161ab8743f5dbeb6e6307ab93
+
+[submodule "modules/hal/libmetal"]
+    path = modules/hal/libmetal
+    url = https://github.com/zephyrproject-rtos/libmetal
+    branch = b91611a6f47dd29fb24c46e5621e797557f80ec6
+
+[submodule "modules/lib/liblc3"]
+    path = modules/lib/liblc3
+    url = https://github.com/zephyrproject-rtos/liblc3
+    branch = 448f3de31f49a838988a162ef1e23a89ddf2d2ed
+
+[submodule "modules/fs/littlefs"]
+    path = modules/fs/littlefs
+    url = https://github.com/zephyrproject-rtos/littlefs
+    branch = ca583fd297ceb48bced3c2548600dc615d67af24
+
+[submodule "modules/lib/loramac-node"]
+    path = modules/lib/loramac-node
+    url = https://github.com/zephyrproject-rtos/loramac-node
+    branch = 842413c5fb98707eb5f26e619e8e792453877897
+
+[submodule "modules/lib/gui/lvgl"]
+    path = modules/lib/gui/lvgl
+    url = https://github.com/zephyrproject-rtos/lvgl
+    branch = 8a6a2d1d29d17d1e4bdc94c243c146a39d635fdd
+
+[submodule "modules/crypto/mbedtls"]
+    path = modules/crypto/mbedtls
+    url = https://github.com/zephyrproject-rtos/mbedtls
+    branch = c38dc78d9a8dcbe43b898cc1171ab33ba3e6fc26
+
+[submodule "bootloader/mcuboot"]
+    path = bootloader/mcuboot
+    url = https://github.com/zephyrproject-rtos/mcuboot
+    branch = 13767d0b72eb14ce42eb8aad1e5a133ef66afc54
+
+[submodule "modules/debug/mipi-sys-t"]
+    path = modules/debug/mipi-sys-t
+    url = https://github.com/zephyrproject-rtos/mipi-sys-t
+    branch = a819419603a2dfcb47f7f39092e1bc112e45d1ef
+
+[submodule "tools/net-tools"]
+    path = tools/net-tools
+    url = https://github.com/zephyrproject-rtos/net-tools
+    branch = d68ee9d17648a1bb3729c2023abfcb735dfe92fa
+
 [submodule "modules/bsim_hw_models/nrf_hw_models"]
     path = modules/bsim_hw_models/nrf_hw_models
     url = https://github.com/zephyrproject-rtos/nrf_hw_models
+    branch = f4595802d32d103718bf50b3d390b7a450895843
+
+[submodule "modules/lib/open-amp"]
+    path = modules/lib/open-amp
+    url = https://github.com/zephyrproject-rtos/open-amp
+    branch = 42b7c577714b8f22ce82a901e19c1814af4609a8
+
+[submodule "modules/lib/openthread"]
+    path = modules/lib/openthread
+    url = https://github.com/zephyrproject-rtos/openthread
+    branch = d62167ee34b091e7025c9ec2820aae71e17a3944
+
+[submodule "modules/debug/percepio"]
+    path = modules/debug/percepio
+    url = https://github.com/zephyrproject-rtos/percepio
+    branch = a3728efccc47dd372f40e6313589ca4c5cc7d5e9
+
+[submodule "modules/lib/picolibc"]
+    path = modules/lib/picolibc
+    url = https://github.com/zephyrproject-rtos/picolibc
+    branch = d07c38ff051386f8e09a143ea0a6c1d6d66dd1d8
+
+[submodule "modules/debug/segger"]
+    path = modules/debug/segger
+    url = https://github.com/zephyrproject-rtos/segger
+    branch = 9d0191285956cef43daf411edc2f1a7788346def
+
+[submodule "modules/crypto/tinycrypt"]
+    path = modules/crypto/tinycrypt
+    url = https://github.com/zephyrproject-rtos/tinycrypt
+    branch = 3e9a49d2672ec01435ffbf0d788db6d95ef28de0
+
+[submodule "modules/tee/tf-m/trusted-firmware-m"]
+    path = modules/tee/tf-m/trusted-firmware-m
+    url = https://github.com/zephyrproject-rtos/trusted-firmware-m
+    branch = b168d92c7ed3c77c94d7ce3362bdde5dbffe8424
+
+[submodule "modules/tee/tf-a/trusted-firmware-a"]
+    path = modules/tee/tf-a/trusted-firmware-a
+    url = https://github.com/zephyrproject-rtos/trusted-firmware-a
+    branch = 421dc050278287839f5c70019bd6aec617f2bbdb
+
+[submodule "modules/lib/uoscore-uedhoc"]
+    path = modules/lib/uoscore-uedhoc
+    url = https://github.com/zephyrproject-rtos/uoscore-uedhoc
+    branch = 5fe2cb613bd7e4590bd1b00c2adf181ac0229379
+
+[submodule "modules/lib/zcbor"]
+    path = modules/lib/zcbor
+    url = https://github.com/zephyrproject-rtos/zcbor
+    branch = 67fd8bb88d3136738661fa8bb5f9989103f4599e
+
